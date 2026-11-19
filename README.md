@@ -37,7 +37,7 @@ Projeto acadêmico de automação de testes desenvolvido em C# utilizando Seleni
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/alicefbarbosa/console-selenium-42-net.git
 ```
 
 Entre na pasta:
